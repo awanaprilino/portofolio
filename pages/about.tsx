@@ -20,9 +20,7 @@ export default function About() {
             </p>
             <div className="prose prose-neutral dark:prose-invert text-neutral-800 dark:text-neutral-200">
               <p>
-                I'm currently the <b>Backend Developer at Refourma</b>,
-                where I'm helping build scalable and robust APIs and system. I
-                focus on collaborate with front-end developers to integrate user-facing elements with server-side logic.
+                Entry-level <b>Backend Developer</b> with 2 years of experience designed and developed web applications across multiple APIs, third-party integrations and databases. My skills might be limited, but my desire to learn new things and develop professionally are endless.
               </p>
               <hr />
               <p>

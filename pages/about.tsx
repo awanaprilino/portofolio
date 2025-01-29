@@ -16,24 +16,21 @@ export default function About() {
           <section>
             <h1 className="font-bold text-3xl font-serif">About Me</h1>
             <p className="my-5 text-neutral-800 dark:text-neutral-200">
-              Hey, I'm Awan Aprilino. Most folks used to call me as <b>Awan</b>. Born on April 3, 1999 in Rembang, Central Java.
+            Hey, I’m Awan Aprilino—though most people just call me Awan. I was born in Rembang, Central Java, and I’ve always had a passion for creating and problem-solving.
             </p>
             <div className="prose prose-neutral dark:prose-invert text-neutral-800 dark:text-neutral-200">
               <p>
-                Entry-level <b>Backend Developer</b> with 2 years of experience designed and developed web applications across multiple APIs, third-party integrations and databases. My skills might be limited, but my desire to learn new things and develop professionally are endless.
+              As a Backend Developer with 4 years of experience, I’ve had the opportunity to design and develop web applications, working extensively with APIs, third-party integrations, and databases. While I’m proud of the skills I’ve built so far, what drives me most is my endless curiosity and eagerness to learn. I’m always looking to grow professionally and take on new challenges.
               </p>
+              <br/>
               <hr />
+              <br/>
               <p>
-                I'm passionate about several things, including blogging, futsal, volleyball,
-                gaming, and of course, coding. This
-                combination of interests is what ultimately led me to keep learning and never give up.
+              Outside of coding, I’m passionate about blogging, futsal, volleyball, and gaming. These diverse interests keep me inspired and motivated to push boundaries, both in my personal and professional life.
               </p>
+              <br/>
               <p>
-                I <b>love</b> building for the web. From something as simple as
-                a single HTML file – all the way to large applications.
-                The web is incredible. Anyone can become a developer, writer, or
-                creator – and no one has to ask for permission. You can just
-                build.
+              I truly believe the web is an incredible space—a place where anyone can create, innovate, and share without needing permission. Whether it’s crafting a simple HTML file or building complex applications, I love the freedom and creativity that comes with being a developer.
               </p>
               <p className="mb-8">
                

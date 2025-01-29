@@ -15,6 +15,82 @@ export default function Project() {
         <main className="basis-3/4">
           <h1 className="font-bold text-3xl font-serif mb-5">Projects</h1>
           <div className="grid md:grid-cols-2 gap-2">
+          <div className="max-w-sm bg-white border border-gray-200 rounded-lg shadow dark:bg-gray-800 dark:border-gray-700">
+              <a href="#">
+                <img
+                  className="rounded-t-lg"
+                  src="/project/kiosk.webp"
+                  alt=""
+                />
+              </a>
+              <div className="p-5">
+                <a href="#">
+                  <h5 className="mb-2 text-2xl font-bold tracking-tight text-gray-900 dark:text-white">
+                    Kiosk
+                  </h5>
+                </a>
+                <p className="mb-3 font-normal text-gray-700 dark:text-gray-400">
+                Self-checkout system
+                </p>
+              </div>
+            </div>
+            <div className="max-w-sm bg-white border border-gray-200 rounded-lg shadow dark:bg-gray-800 dark:border-gray-700">
+              <a href="#">
+                <img
+                  className="rounded-t-lg"
+                  src="/project/fleet.webp"
+                  alt=""
+                />
+              </a>
+              <div className="p-5">
+                <a href="#">
+                  <h5 className="mb-2 text-2xl font-bold tracking-tight text-gray-900 dark:text-white">
+                    Fleet
+                  </h5>
+                </a>
+                <p className="mb-3 font-normal text-gray-700 dark:text-gray-400">
+                Single platform to manage third party logistics providers.
+                </p>
+              </div>
+            </div>
+            <div className="max-w-sm bg-white border border-gray-200 rounded-lg shadow dark:bg-gray-800 dark:border-gray-700">
+              <a href="#">
+                <img
+                  className="rounded-t-lg"
+                  src="/project/omni.png"
+                  alt=""
+                />
+              </a>
+              <div className="p-5">
+                <a href="#">
+                  <h5 className="mb-2 text-2xl font-bold tracking-tight text-gray-900 dark:text-white">
+                    OMNI
+                  </h5>
+                </a>
+                <p className="mb-3 font-normal text-gray-700 dark:text-gray-400">
+                Ordering system integrates with marketplaces & food aggregators.
+                </p>
+              </div>
+            </div>
+            <div className="max-w-sm bg-white border border-gray-200 rounded-lg shadow dark:bg-gray-800 dark:border-gray-700">
+              <a href="#">
+                <img
+                  className="rounded-t-lg"
+                  src="/project/stamps.png"
+                  alt=""
+                />
+              </a>
+              <div className="p-5">
+                <a href="#">
+                  <h5 className="mb-2 text-2xl font-bold tracking-tight text-gray-900 dark:text-white">
+                    STAMPS (CRM)
+                  </h5>
+                </a>
+                <p className="mb-3 font-normal text-gray-700 dark:text-gray-400">
+                Manage and analyze customer’s life cycle data to increase loyalty, engagement, and revenue.
+                </p>
+              </div>
+            </div>
             <div className="max-w-sm bg-white border border-gray-200 rounded-lg shadow dark:bg-gray-800 dark:border-gray-700">
               <a href="#">
                 <img
